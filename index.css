@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+    margin: 100px;
+    border-style: solid;
+    border-color: black;
+    padding: 30px;
+    text-align: left; 
+}
+button{
+    background-color: rgba(2, 11, 19, 0.349);
+    color: whitesmoke; 
+    width: 100px;  
+
+}
+
+
